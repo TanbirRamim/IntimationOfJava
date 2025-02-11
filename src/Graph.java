@@ -59,3 +59,5 @@ public class Graph {
         }
     }
 }
+
+// that sums up everything here // 
