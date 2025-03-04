@@ -60,5 +60,3 @@ public class Graph {
     }
 }
 
-// that sums up everything here //
-// for a new commit, sorry :'/ // 
